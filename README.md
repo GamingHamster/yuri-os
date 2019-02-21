@@ -1,5 +1,5 @@
-# yuri-os
-Computerised assistant inspired by Yuri from DDLC.
+# YuriOS
+Computerized assistant inspired by Yuri from DDLC.
 
 ## Authors
 Lucca Tavares - [OverlordOfMateria](https://github.com/OverlordOfMateria)
