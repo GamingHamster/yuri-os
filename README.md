@@ -1,6 +1,18 @@
 # YuriOS
 Computerized assistant inspired by Yuri from DDLC.
 
+## Getting Started
+
+## Running Tests
+
+## Deployment
+
+## Built With
+
+## Contributing
+
+## Versioning
+
 ## Authors
 Lucca Tavares - [OverlordOfMateria](https://github.com/OverlordOfMateria)
 
